@@ -1,0 +1,11 @@
++ Example trainer
+https://github.com/tensorflow/tensorflow/blob/v1.12.0/tensorflow/cc/tutorials/example_trainer.cc
+
++ Object Recognition with Inception Network
+https://github.com/tensorflow/tensorflow/blob/v1.12.0/tensorflow/examples/label_image/main.cc
+
++ Roadmap inference
+https://github.com/tensorflow/tensorflow/tree/v1.12.0/tensorflow/core/public
+
++ Config CPU, GPU, Fixbug
+https://github.com/tensorflow/tensorflow/issues/22304
